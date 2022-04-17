@@ -1,5 +1,5 @@
 {
-  "name": "fca-horizon-remake",
+  "name": "facebook-chat-api-miraiproject",
   "version": "4.7.3",
   "description": "Facebook Chat Api Được Remake Bới Horizon Chống Get (available) Và Pay Acc 🐧 (maybe?)",
   "scripts": {
@@ -18,9 +18,6 @@
     "fca horizon",
     "fca bot"
   ],
-  "bugs": {
-    "url": "https://bank-sv-4.duongduong216.repl.co/fcacheckall"
-  },
   "author": "Avery, David, Maude, Benjamin, Kanzu",
   "license": "MIT",
   "dependencies": {
